@@ -10,5 +10,5 @@ function Products({name, price}) {
             <button>Buy Now</button>
         </div>
     );
-}
+};
 export default Products;
