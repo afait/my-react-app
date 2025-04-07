@@ -1,5 +1,6 @@
 import React from "react";
 
+// Created a Greeting for customers
 function Greetings({name}) {
     return (
         <div>

@@ -12,6 +12,6 @@ function App() {
         <Products name="iPhone 14 Pro" price="$1099" />
         <Products name="iPhone 14 Pro Max" price="$1199" />
     </div>
-  );
+  ); // Created 3 different types of Phones
 }
 export default App;

@@ -1,5 +1,6 @@
 import React from "react";
 
+// Created a function for products giving them a name and price
 function Products({name, price}) {
     return (
         <div>
@@ -9,6 +10,6 @@ function Products({name, price}) {
             <button>Remove from Cart</button>
             <button>Buy Now</button>
         </div>
-    );
+    ); // Added buttons for each product
 };
 export default Products;
